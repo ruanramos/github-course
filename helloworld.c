@@ -10,5 +10,7 @@ int main() {
 	printf("Vish, mudou pela segunda vez maluco\n");
 	
 	printf("%d\n", a);
+	
+	printf("%d\n", a * b);
 	return 0;
 }
