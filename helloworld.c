@@ -3,8 +3,12 @@
 
 int main() {
 
+	int a = 5;
+	
 	printf("Hello World!\n");
 	printf("Vish, mudou\n");
 	printf("Vish, mudou pela segunda vez maluco\n");
+	
+	printf("%d\n", a);
 	return 0;
 }
